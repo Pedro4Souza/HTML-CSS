@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    background-color: #0203;
+}
+
+h1{
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif 
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 98%;
+}

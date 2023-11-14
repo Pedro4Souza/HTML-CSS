@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+header{
+    text-align: center;
+    background-color: rgb(16, 209, 16);
+}
+
+section{
+    background-color: white;
+    text-align: justify;
+}
+
+p{ 
+    background-color: white;
+    text-align: justify;
+}
